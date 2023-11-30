@@ -11,7 +11,7 @@ The plot below shows wildfire in Quebec between 2011 and 2021.
 ![numberoffiresperyear](https://github.com/Nihalyurdakul/Quebec-Wildfire/assets/136121004/64584ab5-d18a-4dc3-a7cd-0498954372bb) <br />
 Additionally, the following plot shows the size of burned areas per year. <br />
 ![sizebyyear](https://github.com/Nihalyurdakul/Quebec-Wildfire/assets/136121004/d52493a8-1690-44c1-a91d-a1ed7967cdb7) <br />
-Our project aims to create an alert system that analyses weather data so that firefighters, local governments and local people can be prepared beforehand if there is a risk of forest fire.
+Our project aims predicts forestfires by analysing weather data so that firefighters, local governments and local people can be prepared beforehand if there is a risk of forest fire.
 
 
 There are two main distinctions in the cause of wildfires in Quebec: lightning and human. We prefer to focus on lightning caused fires because average size of a lightning caused fire is 48.5 times bigger than average size of a human caused fire although the number of human caused wildfires is 4 times bigger than lightning caused wildfires. Lightning caused fires pose far more danger to wildlife, humans and nature. 
