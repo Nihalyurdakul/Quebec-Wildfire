@@ -40,7 +40,10 @@ The wildfire data is publically available here:
 https://www.kaggle.com/datasets/ulasozdemir/wildfires-in-canada-19502021/data
 <br />
 Weather dataset and the wildfire dataset can be found here as a .zip file. 
-
+<br /> For notebooks 'Canada Wildifre Data Exploration' and 'Fire data with class 1' use datasets 'weather_df.csv', 'CANADA_WILDFIRES.csv', 
+<br /> For the notebook 'Fire data with class 0' use datasets 'weather_df.csv', 'merged_df.csv',
+<br /> For the notebook 'haversinedistance' use datasets 'climatetotalcoord1.csv', 'canadawildfiresupdated1_2011to2021.csv',
+<br /> For the notebook 'wildfire_modeling' use dataset 'fire_0_df.csv', 'fire_1_df.csv'.
 ## Future Work
 
 We have 2 future works:
