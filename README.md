@@ -25,14 +25,14 @@ The addition of a 'class' column distinguishes between fire and non-fire instanc
 Further refinement includes addressing NaN values, particularly in columns indicative of snow and rain variables, by appropriately filling them with 0. 
 The imputation strategy involves employing aggregation methods tailored to each variable, with mean aggregation for temperature-related features and pchip interpolation for max and min relative humidity. 
 The resulting refined wildfire dataset is poised for predictive models.
-3) In the data modeling process, the preliminary tests indicate the viability of decision tree, random forest, gradient boosting, logistic regression, k-nearest neighbors, support vector machine, and na"ive bayes models. Subsequent cross-validation and hyperparameter tuning reveal excellent performance for all tuned models, as depicted in a table of accuracy.
+3) In the data modeling process, the preliminary tests indicate the viability of decision tree, random forest, gradient boosting, logistic regression, k-nearest neighbors, support vector       machine, and na"ive bayes models. Subsequent cross-validation and hyperparameter tuning reveal excellent performance for all tuned models, as depicted in a table of accuracy.
 
-<img width="313" alt="accuracy_table" src="https://github.com/Nihalyurdakul/Quebec-Wildfire/assets/62392536/4e39983c-cb8c-4e91-8265-b6cfbe3933e9">
+   <img width="313" alt="accuracy_table" src="https://github.com/Nihalyurdakul/Quebec-Wildfire/assets/62392536/4e39983c-cb8c-4e91-8265-b6cfbe3933e9">
 
-The analysis identifies data limitations, primarily stemming from the non-linear nature of meta-features, such as recent atmospheric conditions and lightning storm occurrences. The study uses aggregated weather data, emphasizing recent atmospheric conditions, and highlights the importance of a more robust dataset for improved predictions. Additionally, the investigation into feature importance shows that total precipitation ranks as the most influential factor in all models, contradicting expectations based on the dataset's structure. 
-![feature_importance](https://github.com/Nihalyurdakul/Quebec-Wildfire/assets/62392536/0665ac3e-8802-48dd-b7b5-5cc539beb3f3)
+   The analysis identifies data limitations, primarily stemming from the non-linear nature of meta-features, such as recent atmospheric conditions and lightning storm occurrences. The          study uses aggregated weather data, emphasizing recent atmospheric conditions, and highlights the importance of a more robust dataset for improved predictions. Additionally, the             investigation into feature importance shows that total precipitation ranks as the most influential factor in all models, contradicting expectations based on the dataset's structure. 
+   ![feature_importance](https://github.com/Nihalyurdakul/Quebec-Wildfire/assets/62392536/0665ac3e-8802-48dd-b7b5-5cc539beb3f3)
 
-The study underscores the promising capabilities of the selected models and encourages further research to refine predictions and address the complexities of wildfire forecasting.
+    The study underscores the promising capabilities of the selected models and encourages further research to refine predictions and address the complexities of wildfire forecasting.
 
 ## Dependencies
 Running the code requires the following Python packages:
