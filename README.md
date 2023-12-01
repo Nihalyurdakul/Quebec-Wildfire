@@ -14,7 +14,7 @@ Additionally, the following plot shows the size of burned areas per year. <br />
 Our project aims predicts forestfires by analysing weather data so that firefighters, local governments and local people can be prepared beforehand if there is a risk of forest fire.
 
 
-There are two main distinctions in the cause of wildfires in Quebec: lightning and human. We prefer to focus on lightning caused fires because average size of a lightning caused fire is 48.5 times bigger than average size of a human caused fire although the number of human caused wildfires is 4 times bigger than lightning caused wildfires. Lightning caused fires pose far more danger to wildlife, humans and nature. 
+There are two main distinctions in the cause of wildfires in Quebec: lightning and human. We prefer to focus on lightning caused fires because average size of a lightning caused fire is 48.5 times bigger than average size of a human caused fire although the number of human caused wildfires is 4 times bigger than lightning caused wildfires according to our dataset. Lightning caused fires pose far more danger to wildlife, humans and nature. 
 
 ## Data and Model Details
 
