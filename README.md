@@ -1,9 +1,9 @@
 # Quebec Wildfire Project
 ## Team members:
-<br/> -[Christopher Mahadeo] (https://github.com/cmahadeo).
-<br/> -Murat Uyar 
-<br/> -Nihal Uyar 
-<br /> -Rohan Sarkar 
+<br/> - [Christopher Mahadeo] (https://github.com/cmahadeo).
+<br/> - [Murat Uyar] (https://github.com/murat1uyar).
+<br/> - [Nihal Uyar] (https://github.com/Nihalyurdakul).
+<br /> - [Rohan Sarkar] (https://github.com/SarkarRohan1). 
 
 ## Project Description
 The year 2023 is the season where the most area burned in Canada’s history. About 5% of entire forest are of Canada was burned. Even though the number of wildfires has decreased since 80s, the area burned in Canada has increased. Consequently, Quebec affected in the same way.
