@@ -38,6 +38,8 @@ The weather data is publically available here: https://climatedata.ca/download/#
 <br />
 The wildfire data is publically available here:
 https://www.kaggle.com/datasets/ulasozdemir/wildfires-in-canada-19502021/data
+<br />
+Weather dataset and the wildfire dataset can be found here as a .zip file. 
 
 ## Future Work
 
