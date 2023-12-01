@@ -1,6 +1,6 @@
 # Quebec Wildfire Project
 ## Team members:
-<br/> -[Christopher Mahadeo](https://github.com/cmahadeo)
+<br/> -[Christopher Mahadeo] (https://github.com/cmahadeo).
 <br/> -Murat Uyar 
 <br/> -Nihal Uyar 
 <br /> -Rohan Sarkar 
